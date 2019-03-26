@@ -1,3 +1,3 @@
 # Data science projects
 Project one
-- Popular apps in play store and app store
+- Popular free apps in play store and app store based on ratings
